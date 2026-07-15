@@ -1,0 +1,6 @@
+{
+  "version_code": 2,
+  "version_name": "0.2.0",
+  "apk_url": "https://raw.githubusercontent.com/tonym961/iotty-releases/main/iotty-latest.apk",
+  "notes": "Novità 0.2.0:\n• Ticket (Miei/Tutti, dettaglio, cambio stato)\n• Ricerca clienti\n• Aggiornamento automatico dell'app\n• Migliore trascrizione vocali (dialetto) lato bot"
+}
