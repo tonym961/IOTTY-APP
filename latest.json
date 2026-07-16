@@ -1,6 +1,6 @@
 {
-  "version_code": 4,
-  "version_name": "0.4.0",
+  "version_code": 5,
+  "version_name": "0.5.0",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Login reale protetto: solo credenziali valide dal server.\nBackend su iotty.iotatec.it. Grafica rinnovata."
+  "notes": "Login rinnovato (utente+password). Backend reale su iotty.iotatec.it."
 }
