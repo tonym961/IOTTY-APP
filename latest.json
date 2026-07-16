@@ -1,6 +1,6 @@
 {
-  "version_code": 6,
-  "version_name": "0.6.0",
+  "version_code": 7,
+  "version_name": "0.7.0",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Calendario di tutti. Ticket veloci. Auto-update in background."
+  "notes": "Calendario vero (mese/settimana)."
 }
