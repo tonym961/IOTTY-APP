@@ -1,6 +1,6 @@
 {
-  "version_code": 11,
-  "version_name": "0.9.2",
+  "version_code": 12,
+  "version_name": "0.10.0",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.9.2 — Agenda (lista) e Calendario (mese/settimana) separati, con TUTTI gli interventi di TUTTI i tecnici e il nome del tecnico su ogni evento. Dettaglio ticket con indirizzo e telefono. Sessione robusta (niente piu' 401)."
+  "notes": "v0.10.0 — Calendario nuovo: Giorno/Settimana/Mese con TUTTI gli interventi di tutti i tecnici e un colore per tecnico (personalizzabile). Login con impronta/volto. Nuovo logo. Crea ticket, aggiungi nota, assegna a tecnico, Ticket per Tecnico, Cerca Ticket, Magazzino."
 }
