@@ -1,6 +1,6 @@
 {
-  "version_code": 12,
-  "version_name": "0.10.0",
+  "version_code": 13,
+  "version_name": "0.11.0",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.10.0 — Calendario nuovo: Giorno/Settimana/Mese con TUTTI gli interventi di tutti i tecnici e un colore per tecnico (personalizzabile). Login con impronta/volto. Nuovo logo. Crea ticket, aggiungi nota, assegna a tecnico, Ticket per Tecnico, Cerca Ticket, Magazzino."
+  "notes": "v0.11.0 — Stile iOS/UniFi. Primo login: scegli biometria e/o PIN. Ticket: gestione completa (stato, nota, assegna). Magazzino: scansione multipla dei codici a barre + foto dalla galleria. Ora anche la web app (iotty.iotatec.it/app) fa tutto: calendario, ticket, nuovo, magazzino."
 }
