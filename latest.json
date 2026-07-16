@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "0.5.0",
+  "version_code": 6,
+  "version_name": "0.6.0",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Login rinnovato (utente+password). Backend reale su iotty.iotatec.it."
+  "notes": "Calendario di tutti. Ticket veloci. Auto-update in background."
 }
