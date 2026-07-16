@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "0.2.0",
+  "version_code": 3,
+  "version_name": "0.3.0",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
-  "notes": "Novità 0.2.0:\n• Ticket (Miei/Tutti, dettaglio, cambio stato)\n• Ricerca clienti\n• Aggiornamento automatico dell'app\n• Migliore trascrizione vocali (dialetto) lato bot"
+  "notes": "Novità 0.3.0:\n• Grafica rinnovata (colori, card, home)\n• Calendario ridisegnato più leggibile\n• Aggiornamento automatico"
 }
