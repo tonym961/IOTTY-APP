@@ -1,6 +1,6 @@
 {
-  "version_code": 13,
-  "version_name": "0.11.0",
+  "version_code": 14,
+  "version_name": "0.11.1",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.11.0 — Stile iOS/UniFi. Primo login: scegli biometria e/o PIN. Ticket: gestione completa (stato, nota, assegna). Magazzino: scansione multipla dei codici a barre + foto dalla galleria. Ora anche la web app (iotty.iotatec.it/app) fa tutto: calendario, ticket, nuovo, magazzino."
+  "notes": "v0.11.1 — Correzioni: PIN con conferma chiara, scanner che riparte dopo il background, biometria proposta solo se registrata. Web app più sicura."
 }
