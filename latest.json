@@ -1,6 +1,6 @@
 {
-  "version_code": 35,
-  "version_name": "0.12.19",
+  "version_code": 36,
+  "version_name": "0.12.20",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Biometrico SOLO per accesso (niente re-lock in background che perdeva form+feedback) + feedback magazzino evidente (verde ok/rosso errore con icona)"
+  "notes": "Magazzino wizard a step (come bot) + articoli smart (lista con quantità: scan/cerca/a mano + stepper) + gsheet allineato al bot + feedback onesto (dice se salvato su foglio)"
 }
