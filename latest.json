@@ -1,1 +1,6 @@
-{"version_code":23,"version_name":"0.12.7","apk_url":"https://iotty.iotatec.it/uploads/iotty-latest.apk","notes":"v0.12.7 — Dal calendario tocca un intervento e premi 'Gestisci intervento' per aprirlo e modificarlo. Vista Settimana rimossa: calendario Giorno + Mese."}
+{
+  "version_code": 24,
+  "version_name": "0.12.8",
+  "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
+  "notes": "Antonino calendario + tasto Aggiorna + webui UniFi"
+}
