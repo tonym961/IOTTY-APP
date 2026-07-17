@@ -1,6 +1,6 @@
 {
-  "version_code": 17,
-  "version_name": "0.12.1",
+  "version_code": 18,
+  "version_name": "0.12.2",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.12.1 — Notifiche: promemoria 10 minuti prima di ogni intervento + avviso nuovo intervento. Impostazioni > Notifiche: on/off generale e per singolo intervento."
+  "notes": "v0.12.2 — Calendario: nella legenda ci sono TUTTI i tecnici; nel Mese tocca un giorno e vedi sotto la lista degli interventi; la Settimana ora è leggibile (colonne larghe, scorri di lato). Agenda: nuovo tasto per scegliere un giorno preciso. Da web Admin puoi nascondere i tecnici dal calendario."
 }
