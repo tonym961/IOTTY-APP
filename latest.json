@@ -1,6 +1,6 @@
 {
-  "version_code": 27,
-  "version_name": "0.12.11",
+  "version_code": 28,
+  "version_name": "0.12.12",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Fix calendario: appuntamenti iCal di Antonino & co. visibili (token master per ultimo) + filtro a selezione + colori solo da webui"
+  "notes": "Descrizione/rapportino ticket editabile + admin aggiunge tecnico+ore (append) + toggle tema chiaro/scuro app+web + fix filtro stati chiusi"
 }
