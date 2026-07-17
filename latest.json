@@ -1,6 +1,6 @@
 {
-  "version_code": 39,
-  "version_name": "0.12.23",
+  "version_code": 40,
+  "version_name": "0.12.24",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Magazzino: ricerca cliente live mentre scrivi (type-ahead), niente secondo box"
+  "notes": "OSM: Naviga in mappe + Chiama, Sede intervento reale, Firma cliente on-site (allegata)"
 }
