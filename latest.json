@@ -1,6 +1,6 @@
 {
-  "version_code": 33,
-  "version_name": "0.12.17",
+  "version_code": 34,
+  "version_name": "0.12.18",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Magazzino: selettore quantità (- N +) per ogni codice nello scanner barcode"
+  "notes": "Magazzino validazioni: cliente scrivibile a mano e obbligatorio, prelevato obbligatorio, almeno articolo O foto, note opzionale"
 }
