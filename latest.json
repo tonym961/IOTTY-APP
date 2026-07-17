@@ -1,6 +1,6 @@
 {
-  "version_code": 37,
-  "version_name": "0.12.21",
+  "version_code": 38,
+  "version_name": "0.12.22",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Agenda: filtro tecnico come nel calendario"
+  "notes": "Barra sistema edge-to-edge (S26), Agenda in cache/precaricata, wizard magazzino senza step Foto separato"
 }
