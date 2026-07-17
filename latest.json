@@ -1,6 +1,6 @@
 {
-  "version_code": 36,
-  "version_name": "0.12.20",
+  "version_code": 37,
+  "version_name": "0.12.21",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Magazzino wizard a step (come bot) + articoli smart (lista con quantità: scan/cerca/a mano + stepper) + gsheet allineato al bot + feedback onesto (dice se salvato su foglio)"
+  "notes": "Agenda: filtro tecnico come nel calendario"
 }
