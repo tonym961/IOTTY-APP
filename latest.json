@@ -1,6 +1,6 @@
 {
-  "version_code": 16,
-  "version_name": "0.12.0",
+  "version_code": 17,
+  "version_name": "0.12.1",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.12.0 — Nuovo look UniFi OS / Material You (superfici a strati, header a vetro, card premium). Colori dei tecnici ora CENTRALI: gestiscili da web (Admin) e cambiano anche sull'app. Da web Admin puoi aggiungere un tecnico col suo token OSM."
+  "notes": "v0.12.1 — Notifiche: promemoria 10 minuti prima di ogni intervento + avviso nuovo intervento. Impostazioni > Notifiche: on/off generale e per singolo intervento."
 }
