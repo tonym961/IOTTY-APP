@@ -1,6 +1,6 @@
 {
-  "version_code": 15,
-  "version_name": "0.11.2",
+  "version_code": 16,
+  "version_name": "0.12.0",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.11.2 — Nuovo look UniFi/iOS con barra in basso. Crea ticket: tutti i 7 tipi e gli stati reali. Tutti i tecnici visibili. Calendario settimana con zoom. Agenda colorata per tecnico. 'I miei ticket' ora corretti."
+  "notes": "v0.12.0 — Nuovo look UniFi OS / Material You (superfici a strati, header a vetro, card premium). Colori dei tecnici ora CENTRALI: gestiscili da web (Admin) e cambiano anche sull'app. Da web Admin puoi aggiungere un tecnico col suo token OSM."
 }
