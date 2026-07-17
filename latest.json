@@ -1,6 +1,6 @@
 {
-  "version_code": 30,
-  "version_name": "0.12.14",
+  "version_code": 31,
+  "version_name": "0.12.15",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Scanner barcode riscritto (forma minimale, widget-managed) + inserimento manuale fallback + ML Kit bundled"
+  "notes": "Scanner barcode via foto (analyzeImage, niente camera live) + rimossi stati contabili (Contratto/Fatturato/Garanzia/Incassato/Omaggio) da creazione/modifica ticket"
 }
