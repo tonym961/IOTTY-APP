@@ -1,6 +1,6 @@
 {
-  "version_code": 31,
-  "version_name": "0.12.15",
+  "version_code": 32,
+  "version_name": "0.12.16",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Scanner barcode via foto (analyzeImage, niente camera live) + rimossi stati contabili (Contratto/Fatturato/Garanzia/Incassato/Omaggio) da creazione/modifica ticket"
+  "notes": "FIX crash scanner: disabilitato R8/minify in release (rompeva CameraX+ML Kit via reflection, getClass() on null) + proguard keep-rules"
 }
