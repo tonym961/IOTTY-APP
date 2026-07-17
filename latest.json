@@ -1,6 +1,6 @@
 {
-  "version_code": 26,
-  "version_name": "0.12.10",
+  "version_code": 27,
+  "version_name": "0.12.11",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Colore tecnico troppo scuro (nero) reso visibile: Antonino ora compare nel calendario"
+  "notes": "Fix calendario: appuntamenti iCal di Antonino & co. visibili (token master per ultimo) + filtro a selezione + colori solo da webui"
 }
