@@ -1,6 +1,6 @@
 {
-  "version_code": 32,
-  "version_name": "0.12.16",
+  "version_code": 33,
+  "version_name": "0.12.17",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "FIX crash scanner: disabilitato R8/minify in release (rompeva CameraX+ML Kit via reflection, getClass() on null) + proguard keep-rules"
+  "notes": "Magazzino: selettore quantità (- N +) per ogni codice nello scanner barcode"
 }
