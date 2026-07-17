@@ -1,6 +1,6 @@
 {
-  "version_code": 29,
-  "version_name": "0.12.13",
+  "version_code": 30,
+  "version_name": "0.12.14",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Nuovo intervento con assegnazione (nessuno/self/admin-multi) + agenda tap gestisce + magazzino auto-utente + fix notifiche promemoria condivisi + barcode ML Kit unbundled"
+  "notes": "Scanner barcode riscritto (forma minimale, widget-managed) + inserimento manuale fallback + ML Kit bundled"
 }
