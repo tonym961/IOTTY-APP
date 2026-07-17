@@ -1,6 +1,6 @@
 {
-  "version_code": 24,
-  "version_name": "0.12.8",
+  "version_code": 25,
+  "version_name": "0.12.9",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Antonino calendario + tasto Aggiorna + webui UniFi"
+  "notes": "Calendario mostra tutti gli interventi (Antonino) + dettaglio cliente + fix fotocamera + logo ufficiale + SPA no-cache"
 }
