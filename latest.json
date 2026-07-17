@@ -1,6 +1,6 @@
 {
-  "version_code": 34,
-  "version_name": "0.12.18",
+  "version_code": 35,
+  "version_name": "0.12.19",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Magazzino validazioni: cliente scrivibile a mano e obbligatorio, prelevato obbligatorio, almeno articolo O foto, note opzionale"
+  "notes": "Biometrico SOLO per accesso (niente re-lock in background che perdeva form+feedback) + feedback magazzino evidente (verde ok/rosso errore con icona)"
 }
