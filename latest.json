@@ -1,6 +1,1 @@
-{
-  "version_code": 19,
-  "version_name": "0.12.3",
-  "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "v0.12.3 — Modifica intervento dal dettaglio (testo + tipo). Calendario: pulsante Aggiungi (nuovo intervento / programma). Un tecnico può assegnare solo a se stesso; l'admin a tutti."
-}
+{"version_code":20,"version_name":"0.12.4","apk_url":"https://iotty.iotatec.it/uploads/iotty-latest.apk","notes":"v0.12.4 — Nei ticket ora si vedono i colori dei tecnici. Promemoria interventi con interruttore dedicato e tempo (facoltativo). Magazzino: 'prelevato da' impostato in automatico su chi e loggato."}
