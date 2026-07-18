@@ -1,6 +1,6 @@
 {
-  "version_code": 42,
-  "version_name": "0.12.26",
+  "version_code": 43,
+  "version_name": "0.12.27",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Telefoni multipli separati (numero + nome) in app, webui e bot"
+  "notes": "Audit app: fix sessione offline, retry upload firma/allegati, orari, calendario, notifiche"
 }
