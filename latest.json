@@ -1,6 +1,6 @@
 {
-  "version_code": 41,
-  "version_name": "0.12.25",
+  "version_code": 42,
+  "version_name": "0.12.26",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Mostra la versione dell'app nella Home"
+  "notes": "Telefoni multipli separati (numero + nome) in app, webui e bot"
 }
