@@ -1,6 +1,6 @@
 {
-  "version_code": 51,
-  "version_name": "0.12.35",
+  "version_code": 52,
+  "version_name": "0.12.36",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Google Calendar: apri/importa direttamente dalle Impostazioni (una volta sola). Integrazione JARVIS: endpoint bozze esterne con foto."
+  "notes": "Bozze nell'app (sotto Cerca Ticket, solo admin): approva/scarta i ticket da WhatsApp/JARVIS. Fix: Google Calendar ora funziona anche da superadmin. Callback esito a JARVIS su scarto/conversione."
 }
