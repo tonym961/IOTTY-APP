@@ -1,6 +1,6 @@
 {
-  "version_code": 58,
-  "version_name": "0.12.42",
+  "version_code": 59,
+  "version_name": "0.12.43",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Impostazioni: rimosso 'Colori dei tecnici' (tasto morto), spostato qui 'Controlla aggiornamenti' (via dall'AppBar in alto)."
+  "notes": "Firma cliente: ora usa la firma NATIVA di OSM (op=firma) -> compare nella STAMPA del rapportino cliente (prima era solo un allegato, non visibile in stampa)."
 }
