@@ -1,6 +1,6 @@
 {
-  "version_code": 62,
-  "version_name": "0.12.46",
+  "version_code": 63,
+  "version_name": "0.12.47",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Fix: cambio stato non cancella piu la descrizione. Nuovo: Invia email al cliente tramite OSM (rivedi destinatario/oggetto/testo, allega PDF rapportino, SMTP OSM)."
+  "notes": "Gestisci Ticket: se l'intervento non ha tecnico assegnato, per metterlo Completato ora e' obbligatorio assegnare prima un tecnico."
 }
