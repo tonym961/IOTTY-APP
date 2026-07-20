@@ -1,6 +1,6 @@
 {
-  "version_code": 47,
-  "version_name": "0.12.31",
+  "version_code": 48,
+  "version_name": "0.12.32",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Ticket: data e ora di creazione nel tile; segmenti Miei/Tutti/Da assegnare a tutta larghezza (non piu tagliati)"
+  "notes": "Cambio password forzato 1o accesso (+revoca token), articoli caricati ricercabili, Sposta data/ora senza doppioni"
 }
