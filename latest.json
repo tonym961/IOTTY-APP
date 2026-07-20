@@ -1,6 +1,6 @@
 {
-  "version_code": 55,
-  "version_name": "0.12.39",
+  "version_code": 56,
+  "version_name": "0.12.40",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Apri in Google Calendar: copia anche il link negli appunti al tap (con avviso), utile se Google chiede di incollarlo in «Da URL»."
+  "notes": "Skin colore in Impostazioni (Blu, Vino rosso, Verde, Giallo, Celeste, Rosa). Barra in basso: via Magazzino, dentro Impostazioni. Nuovo tasto Magazzino sotto Bozze nella Home."
 }
