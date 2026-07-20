@@ -1,6 +1,6 @@
 {
-  "version_code": 43,
-  "version_name": "0.12.27",
+  "version_code": 44,
+  "version_name": "0.12.28",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Audit app: fix sessione offline, retry upload firma/allegati, orari, calendario, notifiche"
+  "notes": "Ticket non assegnati (da login web OSM) in app e webui + filtro Da assegnare"
 }
