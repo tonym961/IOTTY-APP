@@ -1,6 +1,6 @@
 {
-  "version_code": 54,
-  "version_name": "0.12.38",
+  "version_code": 55,
+  "version_name": "0.12.39",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Colori tecnici: gestione rimossa dall'app (si cambiano solo dalla web Admin, l'app li mostra e basta). Rimosso metodo API morto e testo obsoleto."
+  "notes": "Apri in Google Calendar: copia anche il link negli appunti al tap (con avviso), utile se Google chiede di incollarlo in «Da URL»."
 }
