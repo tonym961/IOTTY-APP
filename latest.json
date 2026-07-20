@@ -1,6 +1,6 @@
 {
-  "version_code": 63,
-  "version_name": "0.12.47",
+  "version_code": 64,
+  "version_name": "0.12.48",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Gestisci Ticket: se l'intervento non ha tecnico assegnato, per metterlo Completato ora e' obbligatorio assegnare prima un tecnico."
+  "notes": "Security hardening (audit): fix XSS pannello admin, email OSM solo-admin, waha fail-closed, reschedule solo su interventi propri, cookie SameSite. App: azione email visibile solo admin."
 }
