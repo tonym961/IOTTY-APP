@@ -1,6 +1,6 @@
 {
-  "version_code": 45,
-  "version_name": "0.12.29",
+  "version_code": 46,
+  "version_name": "0.12.30",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Condividi vocale/foto/doc verso IOTTY -> wizard nuovo ticket con trascrizione Groq"
+  "notes": "Ore lavoro: date future selezionabili; pulsante Crea intervento non piu coperto dai tasti nav"
 }
