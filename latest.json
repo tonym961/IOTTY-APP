@@ -1,6 +1,6 @@
 {
-  "version_code": 52,
-  "version_name": "0.12.36",
+  "version_code": 53,
+  "version_name": "0.12.37",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze nell'app (sotto Cerca Ticket, solo admin): approva/scarta i ticket da WhatsApp/JARVIS. Fix: Google Calendar ora funziona anche da superadmin. Callback esito a JARVIS su scarto/conversione."
+  "notes": "Google Calendar: testo piu' chiaro (si aggiunge da web perche' l'app Google non aggiunge calendari da URL, poi sync automatica)."
 }
