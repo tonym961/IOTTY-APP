@@ -1,6 +1,6 @@
 {
-  "version_code": 53,
-  "version_name": "0.12.37",
+  "version_code": 54,
+  "version_name": "0.12.38",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Google Calendar: testo piu' chiaro (si aggiunge da web perche' l'app Google non aggiunge calendari da URL, poi sync automatica)."
+  "notes": "Colori tecnici: gestione rimossa dall'app (si cambiano solo dalla web Admin, l'app li mostra e basta). Rimosso metodo API morto e testo obsoleto."
 }
