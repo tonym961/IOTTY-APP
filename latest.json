@@ -1,6 +1,6 @@
 {
-  "version_code": 60,
-  "version_name": "0.12.44",
+  "version_code": 61,
+  "version_name": "0.12.45",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Dettaglio ticket: menu Azioni riordinato. Nuovo 'Gestisci Ticket' in cima (pulsante colore tema) = wizard Modifica intervento -> Cambia stato -> Firma opzionale. Ore lavoro -> Aggiungi ore lavoro. Aggiungi nota/Allega foto in fondo, Naviga per ultima."
+  "notes": "Ticket: filtro stati multi-select (come i tecnici) sui soli stati di lavoro. Stati commerciali (contratto/fatturato/garanzia/incassato/omaggio) rimossi dall'app. Sync stato OSM ogni 5 min."
 }
