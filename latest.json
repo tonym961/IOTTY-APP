@@ -1,6 +1,6 @@
 {
-  "version_code": 56,
-  "version_name": "0.12.40",
+  "version_code": 57,
+  "version_name": "0.12.41",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Skin colore in Impostazioni (Blu, Vino rosso, Verde, Giallo, Celeste, Rosa). Barra in basso: via Magazzino, dentro Impostazioni. Nuovo tasto Magazzino sotto Bozze nella Home."
+  "notes": "Skin colore: contrasto testo su Giallo/Celeste (nero) sistemato, celeste piu' chiaro."
 }
