@@ -1,6 +1,6 @@
 {
-  "version_code": 48,
-  "version_name": "0.12.32",
+  "version_code": 49,
+  "version_name": "0.12.33",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Cambio password forzato 1o accesso (+revoca token), articoli caricati ricercabili, Sposta data/ora senza doppioni"
+  "notes": "Integrazione Google Calendar: feed iCal per utente (Impostazioni -> Google Calendar)"
 }
