@@ -1,6 +1,6 @@
 {
-  "version_code": 46,
-  "version_name": "0.12.30",
+  "version_code": 47,
+  "version_name": "0.12.31",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Ore lavoro: date future selezionabili; pulsante Crea intervento non piu coperto dai tasti nav"
+  "notes": "Ticket: data e ora di creazione nel tile; segmenti Miei/Tutti/Da assegnare a tutta larghezza (non piu tagliati)"
 }
