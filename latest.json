@@ -1,6 +1,6 @@
 {
-  "version_code": 50,
-  "version_name": "0.12.34",
+  "version_code": 51,
+  "version_name": "0.12.35",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Sposta data/ora: scegli quale appuntamento spostare se >1. Google Calendar: pulsante Apri in Google Calendar dall'app."
+  "notes": "Google Calendar: apri/importa direttamente dalle Impostazioni (una volta sola). Integrazione JARVIS: endpoint bozze esterne con foto."
 }
