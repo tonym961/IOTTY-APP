@@ -1,6 +1,6 @@
 {
-  "version_code": 57,
-  "version_name": "0.12.41",
+  "version_code": 58,
+  "version_name": "0.12.42",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Skin colore: contrasto testo su Giallo/Celeste (nero) sistemato, celeste piu' chiaro."
+  "notes": "Impostazioni: rimosso 'Colori dei tecnici' (tasto morto), spostato qui 'Controlla aggiornamenti' (via dall'AppBar in alto)."
 }
