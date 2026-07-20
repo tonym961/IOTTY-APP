@@ -1,6 +1,6 @@
 {
-  "version_code": 49,
-  "version_name": "0.12.33",
+  "version_code": 50,
+  "version_name": "0.12.34",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Integrazione Google Calendar: feed iCal per utente (Impostazioni -> Google Calendar)"
+  "notes": "Sposta data/ora: scegli quale appuntamento spostare se >1. Google Calendar: pulsante Apri in Google Calendar dall'app."
 }
