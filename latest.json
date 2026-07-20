@@ -1,6 +1,6 @@
 {
-  "version_code": 59,
-  "version_name": "0.12.43",
+  "version_code": 60,
+  "version_name": "0.12.44",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Firma cliente: ora usa la firma NATIVA di OSM (op=firma) -> compare nella STAMPA del rapportino cliente (prima era solo un allegato, non visibile in stampa)."
+  "notes": "Dettaglio ticket: menu Azioni riordinato. Nuovo 'Gestisci Ticket' in cima (pulsante colore tema) = wizard Modifica intervento -> Cambia stato -> Firma opzionale. Ore lavoro -> Aggiungi ore lavoro. Aggiungi nota/Allega foto in fondo, Naviga per ultima."
 }
