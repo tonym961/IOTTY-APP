@@ -1,6 +1,6 @@
 {
-  "version_code": 68,
-  "version_name": "0.12.52",
+  "version_code": 69,
+  "version_name": "0.12.53",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze visibili e convertibili da TUTTI gli utenti (non solo admin), in app e webui; l autore della conversione resta tracciato nelle info dell intervento."
+  "notes": "Bozze Mail nell'app + aggiungi bozza (vocale/mail) a un ticket esistente"
 }
