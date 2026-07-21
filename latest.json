@@ -1,6 +1,6 @@
 {
-  "version_code": 65,
-  "version_name": "0.12.49",
+  "version_code": 66,
+  "version_name": "0.12.50",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze: Converti apre il wizard ticket completo con ricerca cliente (niente piu id OSM a mano), campi precompilati dalla bozza, assegnazione tecnici. Timeout conversione 120s, conteggio allegati reale. Supporto bozze da email (fonte email)."
+  "notes": "Notifiche in background (polling 15 min ad app chiusa): ticket assegnato/spostato, note e cambi stato, riepilogo mattutino opzionale con orario. Fix tasti coperti su telefoni con navigazione a 3 tasti. Webui: parita completa con l app."
 }
