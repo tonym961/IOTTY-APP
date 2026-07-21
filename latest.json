@@ -1,6 +1,6 @@
 {
-  "version_code": 66,
-  "version_name": "0.12.50",
+  "version_code": 67,
+  "version_name": "0.12.51",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Notifiche in background (polling 15 min ad app chiusa): ticket assegnato/spostato, note e cambi stato, riepilogo mattutino opzionale con orario. Fix tasti coperti su telefoni con navigazione a 3 tasti. Webui: parita completa con l app."
+  "notes": "Notifiche: icona dedicata IOTTY nella status bar (via cerchio grigio), colore brand, e il riepilogo mattutino NON avvisa piu se non ci sono interventi (si segnalano solo gli interventi)."
 }
