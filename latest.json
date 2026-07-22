@@ -1,6 +1,6 @@
 {
-  "version_code": 69,
-  "version_name": "0.12.53",
+  "version_code": 70,
+  "version_name": "0.12.54",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Notifiche: silenzio totale sui ticket in stato Completato o Fatturato (niente avvisi di cambio stato o note per lavoro chiuso)."
+  "notes": "Bozze unificate: una sola sezione con dentro la separazione Chat (WhatsApp/JARVIS) ed Email - in app (chips), nella webui /app (gruppi in sidebar) e nella pagina Bozze classica (tab)."
 }
