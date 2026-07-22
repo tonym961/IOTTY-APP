@@ -1,6 +1,6 @@
 {
-  "version_code": 70,
-  "version_name": "0.12.54",
+  "version_code": 71,
+  "version_name": "0.12.55",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze unificate: una sola sezione con dentro la separazione Chat (WhatsApp/JARVIS) ed Email - in app (chips), nella webui /app (gruppi in sidebar) e nella pagina Bozze classica (tab)."
+  "notes": "Bozze email: sintesi AI completa della conversazione, poi la mail integrale ripulita dai disclaimer; tasti filtro Bozze (Tutte/Chat/Mail) grandi e ben visibili"
 }
