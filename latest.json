@@ -1,6 +1,6 @@
 {
-  "version_code": 71,
-  "version_name": "0.12.55",
+  "version_code": 72,
+  "version_name": "0.12.56",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze email: sintesi AI completa della conversazione, poi la mail integrale ripulita dai disclaimer; tasti filtro Bozze (Tutte/Chat/Mail) grandi e ben visibili"
+  "notes": "Calendario Giorno: interventi senza orario in una striscia sempre visibile in alto (prima nascosti sopra le 6:00)"
 }
