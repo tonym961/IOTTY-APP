@@ -1,6 +1,6 @@
 {
-  "version_code": 73,
-  "version_name": "0.12.57",
+  "version_code": 74,
+  "version_name": "0.12.58",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Calendario Giorno RIPRISTINATO come prima (via striscia 'Senza orario'). Fix causa vera: il backend non genera piu eventi fantasma a mezzanotte per interventi che HANNO un appuntamento in altra data (verificato: 32900 Sorrento/Marameo, 32896 Villa Oriana)."
+  "notes": "Gestione ticket: sezione Appuntamenti/ore assegnate visibile nel dettaglio (app e webui). Avviso 'orario gia occupato' quando assegni/sposti/crei su un orario in cui il tecnico ha gia un appuntamento: scegli se continuare comunque o cambiare orario."
 }
