@@ -1,6 +1,6 @@
 {
-  "version_code": 72,
-  "version_name": "0.12.56",
+  "version_code": 73,
+  "version_name": "0.12.57",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Calendario Giorno: interventi senza orario in una striscia sempre visibile in alto (prima nascosti sopra le 6:00)"
+  "notes": "Calendario Giorno RIPRISTINATO come prima (via striscia 'Senza orario'). Fix causa vera: il backend non genera piu eventi fantasma a mezzanotte per interventi che HANNO un appuntamento in altra data (verificato: 32900 Sorrento/Marameo, 32896 Villa Oriana)."
 }
