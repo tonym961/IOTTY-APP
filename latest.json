@@ -2,5 +2,5 @@
   "version_code": 69,
   "version_name": "0.12.53",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze Mail nell'app + aggiungi bozza (vocale/mail) a un ticket esistente"
+  "notes": "Notifiche: silenzio totale sui ticket in stato Completato o Fatturato (niente avvisi di cambio stato o note per lavoro chiuso)."
 }
