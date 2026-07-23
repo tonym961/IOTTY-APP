@@ -1,6 +1,6 @@
 {
-  "version_code": 82,
-  "version_name": "0.12.66",
+  "version_code": 83,
+  "version_name": "0.12.67",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Assistente potenziato: conversazione vera a voce (parli e invia da solo, ti risponde a voce e riapre il microfono se ti fa una domanda), memoria del dialogo per rispondere alle sue domande, e date in italiano vero (l'altro martedi, venerdi mattina, fra due settimane)."
+  "notes": "Assistente ancora piu capace: note e ore di lavoro a voce, info ticket/cliente, chiamata e navigazione verso il cliente, quante bozze in attesa, quando e libero un tecnico, sposta senza ridire l orario, conferma e annulla a voce, suggerimenti rapidi. E ora c'e anche nella webui."
 }
