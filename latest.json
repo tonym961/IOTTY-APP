@@ -1,6 +1,6 @@
 {
-  "version_code": 75,
-  "version_name": "0.12.59",
+  "version_code": 76,
+  "version_name": "0.12.60",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Sposta data/ora: se il ticket ha un solo tecnico non viene piu chiesto (va diretto a giorno/ora); con piu appuntamenti si sceglie quale spostare e il tecnico segue l appuntamento. Email cliente: verificato che usa il modello Intervento SENZA prezzi."
+  "notes": "Filtro tecnici in Calendario e Agenda (app e webui): prima voce Tutti, tap su un tecnico disattiva Tutti e filtra, selezione multipla di piu tecnici, Tutti azzera."
 }
