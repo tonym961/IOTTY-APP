@@ -1,6 +1,6 @@
 {
-  "version_code": 77,
-  "version_name": "0.12.61",
+  "version_code": 78,
+  "version_name": "0.12.62",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Rifiniture agli elenchi e all'ordinamento delle liste."
+  "notes": "Bozze: nuove sorgenti Google Tasks e Google Keep (watcher dedicati, foto incluse da Keep, spunta automatica del task alla conversione). Icone dedicate per fonte."
 }
