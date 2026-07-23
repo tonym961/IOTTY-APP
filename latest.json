@@ -1,6 +1,6 @@
 {
-  "version_code": 78,
-  "version_name": "0.12.62",
+  "version_code": 79,
+  "version_name": "0.12.63",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze: nuove sorgenti Google Tasks e Google Keep (watcher dedicati, foto incluse da Keep, spunta automatica del task alla conversione). Icone dedicate per fonte."
+  "notes": "Calendario: dopo Assegna/Sposta il server risincronizza SUBITO l'iCal del tecnico (l'appuntamento appena creato compare senza attese) e il tasto Aggiorna ora forza la risincronizzazione dal gestionale prima di ricaricare."
 }
