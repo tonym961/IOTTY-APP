@@ -1,6 +1,6 @@
 {
-  "version_code": 79,
-  "version_name": "0.12.63",
+  "version_code": 80,
+  "version_name": "0.12.64",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Calendario: dopo Assegna/Sposta il server risincronizza SUBITO l'iCal del tecnico (l'appuntamento appena creato compare senza attese) e il tasto Aggiorna ora forza la risincronizzazione dal gestionale prima di ricaricare."
+  "notes": "Nuovo: Assistente in chat e a voce (prova, solo admin) - sposta/assegna interventi, cambia stato, crea ticket e chiedi l'agenda in linguaggio naturale; ogni azione viene proposta e parte solo dopo la tua conferma."
 }
