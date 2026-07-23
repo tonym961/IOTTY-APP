@@ -1,6 +1,6 @@
 {
-  "version_code": 81,
-  "version_name": "0.12.65",
+  "version_code": 82,
+  "version_name": "0.12.66",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Assistente spostato in fondo al menu della Home."
+  "notes": "Assistente potenziato: conversazione vera a voce (parli e invia da solo, ti risponde a voce e riapre il microfono se ti fa una domanda), memoria del dialogo per rispondere alle sue domande, e date in italiano vero (l'altro martedi, venerdi mattina, fra due settimane)."
 }
