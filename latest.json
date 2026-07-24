@@ -1,6 +1,6 @@
 {
-  "version_code": 84,
-  "version_name": "0.12.68",
+  "version_code": 85,
+  "version_name": "0.12.69",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Assistente (chat e voce) disponibile per tutti gli utenti, non piu solo admin. I permessi restano quelli del ruolo: un tecnico agisce solo sui propri interventi."
+  "notes": "Nuovo tema colore 'Rosso scarlatto' nelle Impostazioni dell'app. Pannello admin web ristilizzato come la webui IOTTY. Assistente: orari di lavoro reali per la disponibilita dei tecnici."
 }
