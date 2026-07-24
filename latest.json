@@ -1,6 +1,6 @@
 {
-  "version_code": 87,
-  "version_name": "0.12.71",
+  "version_code": 88,
+  "version_name": "0.12.72",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze: scheda piu chiara e leggibile - prima la ragione sociale in evidenza, poi la persona, poi la richiesta ben leggibile, e in fondo fonte/allegati/data."
+  "notes": "Aggiungi bozza a ticket esistente: ricerca al volo per ragione sociale (o numero), pre-compilata col cliente della bozza, con descrizione dei ticket ben visibile per scegliere quello giusto."
 }
