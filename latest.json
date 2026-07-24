@@ -1,6 +1,6 @@
 {
-  "version_code": 88,
-  "version_name": "0.12.72",
+  "version_code": 89,
+  "version_name": "0.12.73",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Aggiungi bozza a ticket esistente: ricerca al volo per ragione sociale (o numero), pre-compilata col cliente della bozza, con descrizione dei ticket ben visibile per scegliere quello giusto."
+  "notes": "Bozze dal form del sito: formattazione pulita e strutturata (ragione sociale in evidenza, richiesta ben leggibile, poi motivo/contatto/email/telefono/orari, IP in fondo); la ragione sociale si vede anche prima di abbinare il cliente. Fix: aggiungi bozza a ticket senza tecnico."
 }
