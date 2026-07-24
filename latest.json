@@ -1,6 +1,6 @@
 {
-  "version_code": 85,
-  "version_name": "0.12.69",
+  "version_code": 86,
+  "version_name": "0.12.70",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Nuovo tema colore 'Rosso scarlatto' nelle Impostazioni dell'app. Pannello admin web ristilizzato come la webui IOTTY. Assistente: orari di lavoro reali per la disponibilita dei tecnici."
+  "notes": "Bozze: pull-to-refresh affidabile (tira giu per ricaricare, funziona anche a lista vuota) e nuova notifica opzionale quando arriva una bozza (attivabile da Impostazioni > Notifiche)."
 }
