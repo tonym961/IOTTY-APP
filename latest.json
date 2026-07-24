@@ -1,6 +1,6 @@
 {
-  "version_code": 86,
-  "version_name": "0.12.70",
+  "version_code": 87,
+  "version_name": "0.12.71",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze: pull-to-refresh affidabile (tira giu per ricaricare, funziona anche a lista vuota) e nuova notifica opzionale quando arriva una bozza (attivabile da Impostazioni > Notifiche)."
+  "notes": "Bozze: scheda piu chiara e leggibile - prima la ragione sociale in evidenza, poi la persona, poi la richiesta ben leggibile, e in fondo fonte/allegati/data."
 }
