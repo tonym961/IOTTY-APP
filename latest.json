@@ -1,6 +1,6 @@
 {
-  "version_code": 89,
-  "version_name": "0.12.73",
+  "version_code": 90,
+  "version_name": "0.12.74",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze dal form del sito: formattazione pulita e strutturata (ragione sociale in evidenza, richiesta ben leggibile, poi motivo/contatto/email/telefono/orari, IP in fondo); la ragione sociale si vede anche prima di abbinare il cliente. Fix: aggiungi bozza a ticket senza tecnico."
+  "notes": "Home: intestazione compatta - il saluto 'Ciao, <nome>' ora sta sulla stessa riga di tema e aggiorna (niente piu spazio sprecato in alto)."
 }
