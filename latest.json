@@ -1,6 +1,6 @@
 {
-  "version_code": 90,
-  "version_name": "0.12.74",
+  "version_code": 91,
+  "version_name": "0.12.75",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Home: intestazione compatta - il saluto 'Ciao, <nome>' ora sta sulla stessa riga di tema e aggiorna (niente piu spazio sprecato in alto)."
+  "notes": "Assegna a tecnico: dopo l'orario chiede se aggiungere una nota datata alla richiesta (gg/mm/aaaa testo)"
 }
