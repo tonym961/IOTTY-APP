@@ -1,6 +1,6 @@
 {
-  "version_code": 91,
-  "version_name": "0.12.75",
+  "version_code": 92,
+  "version_name": "0.12.76",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Assegna a tecnico: dopo l'orario chiede se aggiungere una nota datata alla richiesta (gg/mm/aaaa testo)"
+  "notes": "Dettaglio ticket: mostra la Richiesta del cliente e la Descrizione/Rapportino separate"
 }
