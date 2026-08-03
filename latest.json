@@ -1,6 +1,6 @@
 {
-  "version_code": 95,
-  "version_name": "0.12.79",
+  "version_code": 96,
+  "version_name": "0.12.80",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Ore di lavoro: con piu' tecnici sul ticket chiede a chi attribuirle (o a tutti), in app e webui"
+  "notes": "Ore di lavoro: la scelta del tecnico viene chiesta PRIMA del calendario"
 }
