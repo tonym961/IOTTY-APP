@@ -1,6 +1,6 @@
 {
-  "version_code": 96,
-  "version_name": "0.12.80",
+  "version_code": 97,
+  "version_name": "0.12.81",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Ore di lavoro: la scelta del tecnico viene chiesta PRIMA del calendario"
+  "notes": "Ore di lavoro: selezione MULTIPLA dei tecnici (caselle + Tutti) in un solo giro, app e webui"
 }
