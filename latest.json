@@ -1,6 +1,6 @@
 {
-  "version_code": 98,
-  "version_name": "0.12.82",
+  "version_code": 99,
+  "version_name": "0.12.83",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Push real-time anche per modifiche fatte su OSM (rilevamento server 60-90s), niente doppioni col polling, icona notifica dal logo ufficiale"
+  "notes": "Chiusura Completato: propone l'email di riepilogo al cliente (PDF senza prezzi, indirizzo anagrafica); invio abilitato anche ai tecnici ma vincolato all'anagrafica"
 }
