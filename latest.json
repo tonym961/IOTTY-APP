@@ -1,6 +1,6 @@
 {
-  "version_code": 99,
-  "version_name": "0.12.83",
+  "version_code": 100,
+  "version_name": "0.12.84",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Chiusura Completato: propone l'email di riepilogo al cliente (PDF senza prezzi, indirizzo anagrafica); invio abilitato anche ai tecnici ma vincolato all'anagrafica"
+  "notes": "Email cliente: doppia conferma prima dell'invio, estrazione indirizzi da anagrafiche sporche, blocco indirizzi malformati"
 }
