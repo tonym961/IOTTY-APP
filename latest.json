@@ -1,6 +1,6 @@
 {
-  "version_code": 97,
-  "version_name": "0.12.81",
+  "version_code": 98,
+  "version_name": "0.12.82",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Ore di lavoro: selezione MULTIPLA dei tecnici (caselle + Tutti) in un solo giro, app e webui"
+  "notes": "Push real-time anche per modifiche fatte su OSM (rilevamento server 60-90s), niente doppioni col polling, icona notifica dal logo ufficiale"
 }
