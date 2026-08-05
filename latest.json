@@ -1,6 +1,6 @@
 {
-  "version_code": 100,
-  "version_name": "0.12.84",
+  "version_code": 101,
+  "version_name": "0.12.85",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Email cliente: doppia conferma prima dell'invio, estrazione indirizzi da anagrafiche sporche, blocco indirizzi malformati"
+  "notes": "Bozze: tasto in fondo alla lista per eliminarle tutte (rispetta il filtro attivo, doppia conferma)"
 }
