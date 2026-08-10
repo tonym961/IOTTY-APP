@@ -1,6 +1,6 @@
 {
-  "version_code": 101,
-  "version_name": "0.12.85",
+  "version_code": 102,
+  "version_name": "0.12.86",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Bozze: tasto in fondo alla lista per eliminarle tutte (rispetta il filtro attivo, doppia conferma)"
+  "notes": "Calendario e selettori data in italiano: la settimana inizia di lunedi (era domenica, default americano)"
 }
