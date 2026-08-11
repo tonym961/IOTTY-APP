@@ -1,6 +1,6 @@
 {
-  "version_code": 102,
-  "version_name": "0.12.86",
+  "version_code": 73,
+  "version_name": "0.12.57",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Calendario e selettori data in italiano: la settimana inizia di lunedi (era domenica, default americano)"
+  "notes": "Widget Android 'Agenda di oggi' + ferie in calendario (import automatico da AGG.FERIE)"
 }
