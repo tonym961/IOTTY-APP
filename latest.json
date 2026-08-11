@@ -1,6 +1,6 @@
 {
-  "version_code": 104,
-  "version_name": "0.12.88",
+  "version_code": 105,
+  "version_name": "0.12.89",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Widget Agenda: aggiornamento al rientro nell'app + orario 'agg.' nel titolo + stato di default visibile"
+  "notes": "Widget a prova di crash + canale Beta/Produzione in Impostazioni (default Produzione); il widget Agenda e' una feature beta"
 }
