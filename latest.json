@@ -1,6 +1,6 @@
 {
-  "version_code": 73,
-  "version_name": "0.12.57",
+  "version_code": 103,
+  "version_name": "0.12.87",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Widget Android 'Agenda di oggi' + ferie in calendario (import automatico da AGG.FERIE)"
+  "notes": "Aggregato: ferie in calendario (auto da AGG.FERIE), widget Agenda di oggi, Bozze Mail e aggiungi-a-ticket in app, hardening sicurezza"
 }
