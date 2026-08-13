@@ -1,6 +1,6 @@
 {
-  "version_code": 105,
-  "version_name": "0.12.89",
+  "version_code": 106,
+  "version_name": "0.12.90",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Widget a prova di crash + canale Beta/Produzione in Impostazioni (default Produzione); il widget Agenda e' una feature beta"
+  "notes": "Una sola notifica per intervento: niente piu' doppioni (assegnazione+appuntamento deduplicati lato server, rimossa la notifica locale ridondante)"
 }
