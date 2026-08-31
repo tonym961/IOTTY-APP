@@ -1,6 +1,6 @@
 {
-  "version_code": 133,
-  "version_name": "0.12.117",
+  "version_code": 134,
+  "version_name": "0.12.118",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Nuova sezione Dispositivi: il parco macchine di tutti i clienti con ricerca e filtri per tipo e stato"
+  "notes": "Assegnazione piu' rapida: giorno, ora e durata a tendina, e si possono scegliere piu' tecnici insieme. Descrizione intervento piu' leggibile"
 }
