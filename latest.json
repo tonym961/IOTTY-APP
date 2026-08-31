@@ -1,6 +1,6 @@
 {
-  "version_code": 132,
-  "version_name": "0.12.116",
+  "version_code": 133,
+  "version_name": "0.12.117",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Parco macchine del cliente anche nell'app: dispositivi, stato acceso/spento e livelli toner letti da T-Rack"
+  "notes": "Nuova sezione Dispositivi: il parco macchine di tutti i clienti con ricerca e filtri per tipo e stato"
 }
