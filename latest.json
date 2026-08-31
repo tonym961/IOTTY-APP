@@ -1,6 +1,6 @@
 {
-  "version_code": 106,
-  "version_name": "0.12.90",
+  "version_code": 132,
+  "version_name": "0.12.116",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Una sola notifica per intervento: niente piu' doppioni (assegnazione+appuntamento deduplicati lato server, rimossa la notifica locale ridondante)"
+  "notes": "Parco macchine del cliente anche nell'app: dispositivi, stato acceso/spento e livelli toner letti da T-Rack"
 }
