@@ -1,6 +1,6 @@
 {
-  "version_code": 135,
-  "version_name": "0.12.119",
+  "version_code": 136,
+  "version_name": "0.12.120",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Anteprima del dispositivo anche nell'app: toccando un dispositivo si apre la scheda con stato, toner, tamburi, contatori e copie per mese"
+  "notes": "App: sedi nel nuovo ticket, magazzino dalla scheda del ticket (piu righe e scansione), rimozione di un tecnico dall intervento, contratti di assistenza nella scheda cliente"
 }
