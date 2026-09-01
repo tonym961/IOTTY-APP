@@ -1,6 +1,6 @@
 {
-  "version_code": 141,
-  "version_name": "0.12.125",
+  "version_code": 142,
+  "version_name": "0.12.126",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Si puo assegnare anche a giorni passati, descrizione intervento piu grande, e si vede chi ha creato il ticket e chi ha fissato l appuntamento"
+  "notes": "Nell'assegnazione si puo scegliere «Altra data» e andare molto piu indietro o avanti (calendario a 3 anni)"
 }
