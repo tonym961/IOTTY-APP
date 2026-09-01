@@ -1,6 +1,6 @@
 {
-  "version_code": 137,
-  "version_name": "0.12.121",
+  "version_code": 138,
+  "version_name": "0.12.122",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Su un intervento chiuso (completato, fatturato, omaggio, garanzia) i tecnici non si possono piu togliere"
+  "notes": "Anche Incassato e Reperibilita Completato bloccano la rimozione dei tecnici; l elenco degli stati chiusi arriva dal server"
 }
