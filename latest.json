@@ -1,6 +1,6 @@
 {
-  "version_code": 139,
-  "version_name": "0.12.123",
+  "version_code": 140,
+  "version_name": "0.12.124",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Dall'app si puo cambiare il nome del contatto in chat, anche se non e abbinato a un cliente"
+  "notes": "iVi spostato nell'elenco accanto a Magazzino, come nella webui"
 }
