@@ -1,6 +1,6 @@
 {
-  "version_code": 140,
-  "version_name": "0.12.124",
+  "version_code": 141,
+  "version_name": "0.12.125",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "iVi spostato nell'elenco accanto a Magazzino, come nella webui"
+  "notes": "Si puo assegnare anche a giorni passati, descrizione intervento piu grande, e si vede chi ha creato il ticket e chi ha fissato l appuntamento"
 }
