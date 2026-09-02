@@ -1,6 +1,6 @@
 {
-  "version_code": 142,
-  "version_name": "0.12.126",
+  "version_code": 143,
+  "version_name": "0.12.127",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Nell'assegnazione si puo scegliere «Altra data» e andare molto piu indietro o avanti (calendario a 3 anni)"
+  "notes": "Elenco dispositivi non blocca piu l'app (lista pigra e ricerca con pausa) e la scheda avvisa quando i dati sono vecchi"
 }
