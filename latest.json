@@ -1,6 +1,6 @@
 {
-  "version_code": 143,
-  "version_name": "0.12.127",
+  "version_code": 144,
+  "version_name": "0.12.128",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Elenco dispositivi non blocca piu l'app (lista pigra e ricerca con pausa) e la scheda avvisa quando i dati sono vecchi"
+  "notes": "Le foto dei contatti in chat si aprono a tutto schermo, come su WhatsApp: pizzica per ingrandire, doppio tocco per lo zoom rapido. Vale anche per le immagini allegate ai messaggi, che prima si aprivano in un riquadro piccolo."
 }
