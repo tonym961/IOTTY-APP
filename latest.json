@@ -1,6 +1,6 @@
 {
-  "version_code": 144,
-  "version_name": "0.12.128",
+  "version_code": 145,
+  "version_name": "0.12.129",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Le foto dei contatti in chat si aprono a tutto schermo, come su WhatsApp: pizzica per ingrandire, doppio tocco per lo zoom rapido. Vale anche per le immagini allegate ai messaggi, che prima si aprivano in un riquadro piccolo."
+  "notes": "La cassaforte delle credenziali arriva sull'app: primo accesso con la password madre, poi si apre con l'impronta. La decifratura avviene sul telefono: il server non vede mai le password in chiaro."
 }
