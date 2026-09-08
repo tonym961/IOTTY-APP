@@ -1,6 +1,6 @@
 {
-  "version_code": 145,
-  "version_name": "0.12.129",
+  "version_code": 146,
+  "version_name": "0.12.130",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "La cassaforte delle credenziali arriva sull'app: primo accesso con la password madre, poi si apre con l'impronta. La decifratura avviene sul telefono: il server non vede mai le password in chiaro."
+  "notes": "Suggerimenti AI del rapportino anche su Android, in modifica e in creazione: dieci proposte, cinque brevi e cinque dettagliate. Risolto il blocco della schermata barcode aperta dal ticket, da cui si usciva solo chiudendo l'app. Niente piu raffiche di notifiche su interventi vecchi."
 }
