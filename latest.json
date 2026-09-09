@@ -1,6 +1,6 @@
 {
-  "version_code": 146,
-  "version_name": "0.12.130",
+  "version_code": 147,
+  "version_name": "0.12.131",
   "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Suggerimenti AI del rapportino anche su Android, in modifica e in creazione: dieci proposte, cinque brevi e cinque dettagliate. Risolto il blocco della schermata barcode aperta dal ticket, da cui si usciva solo chiudendo l'app. Niente piu raffiche di notifiche su interventi vecchi."
+  "notes": "Aggiungendo materiale al magazzino dal ticket, ogni riga ha la sua spunta SF: finisce nella colonna SF del foglio. In tema chiaro il messaggio con l'esito in fondo allo schermo era nero su nero: ora si legge."
 }
