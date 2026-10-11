@@ -1,6 +1,6 @@
 {
-  "version_code": 147,
-  "version_name": "0.12.131",
-  "apk_url": "https://iotty.iotatec.it/uploads/iotty-latest.apk",
-  "notes": "Aggiungendo materiale al magazzino dal ticket, ogni riga ha la sua spunta SF: finisce nella colonna SF del foglio. In tema chiaro il messaggio con l'esito in fondo allo schermo era nero su nero: ora si legge."
+  "version_code": 169,
+  "version_name": "0.12.153",
+  "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
+  "notes": "Registratori telematici in IOTTY: QR Agenzia Entrate, scadenza verifica periodica e documenti di verifica sul dispositivo; il registratore associato dentro il ticket. Dai preventivi (anche da telefono) apri il PDF e segna accettato/rifiutato."
 }
