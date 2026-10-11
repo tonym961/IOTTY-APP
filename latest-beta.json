@@ -1,6 +1,6 @@
 {
-  "version_code": 169,
-  "version_name": "0.12.153",
+  "version_code": 170,
+  "version_name": "0.12.154",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Preventivi da mobile: apri il PDF (e condividilo/stampalo) e segna accettato/rifiutato. Più tutto il T-Rack sui registratori (QR, scadenza verifica, documenti, dispositivo nel ticket)."
+  "notes": "Nuovo preventivo dal telefono: scegli il cliente, aggiungi le righe e crea (il PDF lo fa iVi). Più apri/condividi il PDF e segna accettato/rifiutato; e tutto il T-Rack sui registratori."
 }

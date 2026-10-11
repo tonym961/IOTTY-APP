@@ -1,6 +1,6 @@
 {
-  "version_code": 169,
-  "version_name": "0.12.153",
+  "version_code": 170,
+  "version_name": "0.12.154",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
-  "notes": "Registratori telematici in IOTTY: QR Agenzia Entrate, scadenza verifica periodica e documenti di verifica sul dispositivo; il registratore associato dentro il ticket. Dai preventivi (anche da telefono) apri il PDF e segna accettato/rifiutato."
+  "notes": "Nuovo preventivo dal telefono: scegli il cliente, aggiungi le righe e crea (il PDF lo fa iVi). Più apri/condividi il PDF e segna accettato/rifiutato; e tutto il T-Rack sui registratori."
 }
