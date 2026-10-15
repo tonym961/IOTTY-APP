@@ -1,6 +1,6 @@
 {
-  "version_code": 172,
-  "version_name": "0.12.156",
+  "version_code": 173,
+  "version_name": "0.12.157",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Chat: rispondi scorrendo il messaggio verso destra (swipe), come WhatsApp. Il tieni-premuto resta disponibile."
+  "notes": "Nuova notifica «Ticket urgenti»: quando un ticket viene segnato urgente (rosso) arriva una push a tutta la squadra che la tiene accesa. La attivi o disattivi da Impostazioni → Notifiche → Ticket urgenti. Al tocco si apre il ticket."
 }
