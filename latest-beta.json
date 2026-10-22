@@ -1,6 +1,6 @@
 {
-  "version_code": 173,
-  "version_name": "0.12.157",
+  "version_code": 177,
+  "version_name": "0.12.161",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Nuova notifica «Ticket urgenti»: quando un ticket viene segnato urgente (rosso) arriva una push a tutta la squadra che la tiene accesa. La attivi o disattivi da Impostazioni → Notifiche → Ticket urgenti. Al tocco si apre il ticket."
+  "notes": "Urgenze anche da app: i ticket rossi e gialli hanno bordo + pastiglia in tutte le liste, e in alto in Home c'è la campanella con l'elenco dei ticket urgenti (li vedono tutti i tecnici). Più i misuratori fiscali con i due segnali (trasmissione/verifica), i campi RT e i filtri dedicati, e la riga «In ferie oggi» sotto la reperibilità."
 }
