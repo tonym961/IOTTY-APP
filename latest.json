@@ -1,0 +1,6 @@
+{
+  "version_code": 184,
+  "version_name": "0.12.168",
+  "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
+  "notes": "QR del talloncino: il link lo legge il server, cosi' il ticket si apre anche quando il QR porta il codice di accesso"
+}
