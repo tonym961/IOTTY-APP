@@ -1,6 +1,6 @@
 {
-  "version_code": 184,
-  "version_name": "0.12.168",
+  "version_code": 185,
+  "version_name": "0.12.169",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
-  "notes": "QR del talloncino: il link lo legge il server, cosi' il ticket si apre anche quando il QR porta il codice di accesso"
+  "notes": "Talloncino e stato per il cliente dal telefono: ristampa del foglietto, codice e link da mandare su WhatsApp, avviso al cliente alla chiusura, interruttore della stampa automatica in Impostazioni"
 }
