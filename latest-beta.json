@@ -1,6 +1,6 @@
 {
-  "version_code": 189,
-  "version_name": "0.12.173",
+  "version_code": 190,
+  "version_name": "0.12.174",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Scansiona il talloncino: la fotocamera si apre subito e legge il QR, senza chiedere niente. In Ticket, il filtro del periodo per arrivare a tutto l'archivio."
+  "notes": "I tecnici che non lavorano piu' qui spariscono dai filtri e dagli elenchi: Calendario, Agenda e Ticket. Prima bastava tornare indietro di qualche mese e ricomparivano."
 }
