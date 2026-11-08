@@ -1,6 +1,6 @@
 {
-  "version_code": 188,
-  "version_name": "0.12.172",
+  "version_code": 189,
+  "version_name": "0.12.173",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Note dentro Promemoria · cassaforte rimossa · Home con Altro e QR · Ticket con i filtri del gestionale"
+  "notes": "Scansiona il talloncino: la fotocamera si apre subito e legge il QR, senza chiedere niente. In Ticket, il filtro del periodo per arrivare a tutto l'archivio."
 }
