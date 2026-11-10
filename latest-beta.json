@@ -1,6 +1,6 @@
 {
-  "version_code": 193,
-  "version_name": "0.12.177",
+  "version_code": 194,
+  "version_name": "0.12.178",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Strumenti: Verifiche Periodiche, Dispositivi e Centro Report sotto un tasto solo. Verifiche Periodiche mostra i registratori in scadenza e tutti i documenti di verificazione, e da li' si compila il rapporto sul modulo ufficiale e si riapre in PDF. La scheda dell'apparecchio ha «Nuovo rapporto». Accessori: adesso si vedono anche nel ticket, non solo sul talloncino."
+  "notes": "Fiscale: i registratori con i dati letti dall'Agenzia delle Entrate, POS collegati e registrazione di un apparecchio inquadrandone il QR"
 }
