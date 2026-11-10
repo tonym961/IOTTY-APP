@@ -1,6 +1,6 @@
 {
-  "version_code": 191,
-  "version_name": "0.12.175",
+  "version_code": 192,
+  "version_name": "0.12.176",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
-  "notes": "Promemoria: c'è scritto chi te l'ha messo, se non te lo sei scritto tu. «Assegna a…» mostra solo i tecnici in squadra, come sul web. «Promemoria e note» apre le due voci: la bacheca e l'archivio Note. In Cerca e in Ticket per Tecnico si ritrova anche chi non lavora più qui, con scritto che non è più in squadra."
+  "notes": "Talloncino: quando lo stampi adesso ti chiede quale copia vuoi — tutte e due, solo la copia 1 (il foglietto di ritiro col QR, quello che si consegna al cliente) o solo la copia 2 (la ricevuta che resta attaccata all'apparecchio). Chiudendo la domanda non esce niente."
 }
