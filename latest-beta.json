@@ -1,6 +1,6 @@
 {
-  "version_code": 192,
-  "version_name": "0.12.176",
+  "version_code": 193,
+  "version_name": "0.12.177",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Talloncino: quando lo stampi adesso ti chiede quale copia vuoi — tutte e due, solo la copia 1 (il foglietto di ritiro col QR, quello che si consegna al cliente) o solo la copia 2 (la ricevuta che resta attaccata all'apparecchio). Chiudendo la domanda non esce niente."
+  "notes": "Strumenti: Verifiche Periodiche, Dispositivi e Centro Report sotto un tasto solo. Verifiche Periodiche mostra i registratori in scadenza e tutti i documenti di verificazione, e da li' si compila il rapporto sul modulo ufficiale e si riapre in PDF. La scheda dell'apparecchio ha «Nuovo rapporto». Accessori: adesso si vedono anche nel ticket, non solo sul talloncino."
 }
