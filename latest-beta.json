@@ -1,6 +1,6 @@
 {
-  "version_code": 195,
-  "version_name": "0.12.179",
+  "version_code": 196,
+  "version_name": "0.12.180",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Scansiona una volta sola: la fotocamera della Home ora riconosce anche l'etichetta di un registratore fiscale e lo registra chiedendo i dati all'Agenzia"
+  "notes": "Le note si scrivono dall'app: nuova nota, modifica, bozza che non si perde, e il widget «Nuova nota» per la schermata di casa"
 }
