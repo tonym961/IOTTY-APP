@@ -1,6 +1,6 @@
 {
-  "version_code": 197,
-  "version_name": "0.12.181",
+  "version_code": 198,
+  "version_name": "0.12.182",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
-  "notes": "Fiscale: i registratori telematici con i dati dell'Agenzia, le verifiche periodiche col rapporto da compilare e i documenti — e la fotocamera della Home riconosce anche l'etichetta di un registratore. Dispositivi: il parco macchine del cliente, stato e toner. Note: adesso si scrivono anche dal telefono, con cartelle, cestino, ricerca, il widget «Nuova nota» per la schermata di casa, e gli allegati presi dal telefono (foto, PDF, documenti)."
+  "notes": "Fiscale: i registratori telematici con i dati dell'Agenzia, le verifiche periodiche col rapporto da compilare e i documenti — e la fotocamera della Home riconosce anche l'etichetta di un registratore. Dispositivi: il parco macchine del cliente, stato e toner. Note: adesso si scrivono anche dal telefono, con cartelle, cestino, ricerca, il widget «Nuova nota» per la schermata di casa, e gli allegati presi dal telefono (foto, PDF, documenti) — e dal cestino si rimette a posto anche un file, non solo una nota."
 }
