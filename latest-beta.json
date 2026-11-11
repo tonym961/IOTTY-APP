@@ -1,6 +1,6 @@
 {
-  "version_code": 194,
-  "version_name": "0.12.178",
+  "version_code": 195,
+  "version_name": "0.12.179",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Fiscale: i registratori con i dati letti dall'Agenzia delle Entrate, POS collegati e registrazione di un apparecchio inquadrandone il QR"
+  "notes": "Scansiona una volta sola: la fotocamera della Home ora riconosce anche l'etichetta di un registratore fiscale e lo registra chiedendo i dati all'Agenzia"
 }
