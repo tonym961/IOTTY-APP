@@ -1,6 +1,6 @@
 {
-  "version_code": 196,
-  "version_name": "0.12.180",
+  "version_code": 197,
+  "version_name": "0.12.181",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Archivio note completo dall'app: nuova nota, cartelle e sottocartelle, sposta anche in blocco, cestino e il widget «Nuova nota»"
+  "notes": "Dalle note si allegano i file del telefono (foto, PDF, documenti), e la nota nuova fa scegliere la cartella — creandola da lì se non c'è"
 }
