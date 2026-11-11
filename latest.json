@@ -1,6 +1,6 @@
 {
-  "version_code": 192,
-  "version_name": "0.12.176",
+  "version_code": 197,
+  "version_name": "0.12.181",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-latest.apk",
-  "notes": "Talloncino: quando lo stampi adesso ti chiede quale copia vuoi — tutte e due, solo la copia 1 (il foglietto di ritiro col QR, quello che si consegna al cliente) o solo la copia 2 (la ricevuta che resta attaccata all'apparecchio). Chiudendo la domanda non esce niente."
+  "notes": "Fiscale: i registratori telematici con i dati dell'Agenzia, le verifiche periodiche col rapporto da compilare e i documenti — e la fotocamera della Home riconosce anche l'etichetta di un registratore. Dispositivi: il parco macchine del cliente, stato e toner. Note: adesso si scrivono anche dal telefono, con cartelle, cestino, ricerca, il widget «Nuova nota» per la schermata di casa, e gli allegati presi dal telefono (foto, PDF, documenti)."
 }
