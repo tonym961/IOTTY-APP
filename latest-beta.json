@@ -1,6 +1,6 @@
 {
-  "version_code": 199,
-  "version_name": "0.12.183",
+  "version_code": 200,
+  "version_name": "0.12.184",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Dall'archivio Note si vede, e si cambia, CHI LA VEDE: una cartella o una singola nota si condividono con tutta la squadra, con un reparto o con una persona sola, in sola lettura o potendo scrivere — e il tocco su una riga cambia il livello. Sulla nota aperta c'è scritto con chi è condivisa. Si arriva da tre strade: il menu della cartella, il tocco lungo sulla nota, il tasto nella barra della nota aperta."
+  "notes": "Widget: ognuno dei tre ha il suo nome, la sua descrizione e la sua anteprima — nel selettore si capisce se stai aggiungendo Agenda, Promemoria o Nuova nota (prima si chiamavano tutti «iotty», con la stessa icona). Ticket: i filtri sono tuoi, non del telefono — quello che metti via dal browser, «dal… al…» compreso, resta via anche qui, e una pastiglia dice perché l'elenco è corto. Chat: i vocali diventano testo da leggere, in italiano, sotto la bolla e nell'elenco delle conversazioni. Appuntamenti: ogni riga ha il suo tipo, così un lavoro iniziato in teleassistenza e finito in laboratorio si racconta per quello che è. Note: dall'app si può fare una cartella «solo mia». E, quando verrà accesa, la verifica in due passaggi col codice chiesto anche dal telefono."
 }
