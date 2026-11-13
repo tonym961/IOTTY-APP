@@ -1,6 +1,6 @@
 {
-  "version_code": 202,
-  "version_name": "0.12.186",
+  "version_code": 203,
+  "version_name": "0.12.187",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Widget, come devono funzionare: ognuno dei tre ha il suo nome e la sua anteprima nel selettore (Agenda, Promemoria, Nuova nota, prima erano tre «iotty» identici), e il tocco ti porta DENTRO LA SEZIONE invece di aprire la Home — l'Agenda apre il calendario (prima non aveva nessuna destinazione), il «+» della nota apre subito l'editor anche se il telefono era bloccato quando l'hai toccato, e il tocco non apre più una seconda Home sopra l'app. Il widget Promemoria vede anche il mese prossimo, porta la data accanto all'ora (così un riquadro vecchio si vede che è vecchio), si aggiorna mentre esci dall'app e non si svuota più se la rete cade. Ticket: i filtri sono tuoi, non del telefono — quello che metti via dal browser, «dal… al…» compreso, resta via anche qui. Chat: i vocali diventano testo da leggere, in italiano, sotto la bolla e nell'elenco. Appuntamenti: ogni riga ha il suo tipo, così un lavoro iniziato in teleassistenza e finito in laboratorio si racconta per quello che è. Note: dall'app si può fare una cartella «solo mia»."
+  "notes": "La notifica di un intervento apre l'intervento, non la Home"
 }
