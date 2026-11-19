@@ -1,6 +1,6 @@
 {
-  "version_code": 203,
-  "version_name": "0.12.187",
+  "version_code": 204,
+  "version_name": "0.12.188",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "La notifica di un intervento apre l'intervento, non la Home"
+  "notes": "Chiamare dalla chat: dal centralino o su WhatsApp. La conferma mostra il numero come viene composto e, con due interni, da quale far squillare."
 }
