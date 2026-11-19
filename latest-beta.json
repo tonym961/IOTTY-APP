@@ -1,6 +1,6 @@
 {
-  "version_code": 206,
-  "version_name": "0.12.190",
+  "version_code": 207,
+  "version_name": "0.12.191",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "In chat la scorciatoia è la cornetta: da lì si chiama (WhatsApp per primo), la videochiamata resta nell'elenco."
+  "notes": "Tre modi di chiamare dalla chat: con WhatsApp, col cellulare o col PBX — e col PBX squilla l'app 3CX che hai in mano."
 }
