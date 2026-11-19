@@ -1,6 +1,6 @@
 {
-  "version_code": 204,
-  "version_name": "0.12.188",
+  "version_code": 205,
+  "version_name": "0.12.189",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Chiamare dalla chat: dal centralino o su WhatsApp. La conferma mostra il numero come viene composto e, con due interni, da quale far squillare."
+  "notes": "Chiama su WhatsApp come prima scelta, e da quale dei tuoi numeri: il prefisso del centralino si imposta in Gestione."
 }
