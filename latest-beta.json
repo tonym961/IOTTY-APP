@@ -1,6 +1,6 @@
 {
-  "version_code": 205,
-  "version_name": "0.12.189",
+  "version_code": 206,
+  "version_name": "0.12.190",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Chiama su WhatsApp come prima scelta, e da quale dei tuoi numeri: il prefisso del centralino si imposta in Gestione."
+  "notes": "In chat la scorciatoia è la cornetta: da lì si chiama (WhatsApp per primo), la videochiamata resta nell'elenco."
 }
