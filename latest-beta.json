@@ -1,6 +1,6 @@
 {
-  "version_code": 207,
-  "version_name": "0.12.191",
+  "version_code": 208,
+  "version_name": "0.12.192",
   "apk_url": "https://raw.githubusercontent.com/tonym961/IOTTY-APP/main/iotty-beta.apk",
-  "notes": "Tre modi di chiamare dalla chat: con WhatsApp, col cellulare o col PBX — e col PBX squilla l'app 3CX che hai in mano."
+  "notes": "Dal telefono la chiamata si apre nell'app del centralino, col numero già pronto (anche su WhatsApp)."
 }
